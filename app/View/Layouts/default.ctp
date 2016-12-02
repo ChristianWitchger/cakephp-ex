@@ -77,6 +77,7 @@ ul {
 .row {
   margin-left: -15px;
   margin-right: -15px;
+  background-color: #AAAAFF;
 }
 .row:before,
 .row:after {
